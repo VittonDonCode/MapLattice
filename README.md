@@ -15,7 +15,7 @@ Some improvements I might add in the future are:
 
 HOW TO USE:
 
-Download the file, place your map art in the "schematics" section of the project,
+Download the file, open it using IDEA, (needs maven) place your map art in the "schematics" section of the project,
 Run the program, and type in the name of your file
 Drag the edited file into your schematics folder in Minecraft and your done.
 
