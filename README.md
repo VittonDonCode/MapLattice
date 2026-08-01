@@ -1,6 +1,8 @@
 # MapLattice
 Awesome little project to make building map arts a little easier. First project so not too advanced and the code also isn't great.
 
+UPDATE incoming, code makes maparts shading messed up every chain as the last block of every up chain is down, I know the fix will take some time
+
 I think I will use this to just explain the project,
 
 So in its initial state right now, it does 2 things. It scans the whole map art file (128 by 129 square) and tags all the blocks as "down" or "flat" and if they are moving up, it puts them
