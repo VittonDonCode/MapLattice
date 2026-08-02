@@ -1,7 +1,7 @@
 # MapLattice
 Awesome little project to make building map arts a little easier. First project so not too advanced and the code also isn't great.
 
-UPDATE incoming, code makes maparts shading messed up every chain as the last block of every up chain is down, I know the fix will take some time
+UPDATE incoming, code makes maparts shading messed up every chain as the last block of every up chain is down, I know the fix will take some time, UPDATE 2, the whole thing is messed up will fix when I have more rest I think I need to remake a lot of it
 
 I think I will use this to just explain the project,
 
