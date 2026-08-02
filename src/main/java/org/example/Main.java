@@ -133,9 +133,15 @@ public class Main {
                 ListTag<IntTag> pos = block.getListTag("pos").asIntTagList();
                 BlockInfo info = allBlocks.get(i);
 
-                if (info.downTrueFlatFalse == null)
+                if (info.downTrueFlatFalse == null && i < allBlocks.size() - 1)
                 {
-                    continue;
+                    BlockInfo nextInfo = allBlocks.get(i + 1);
+                    nextY = getY(blocks, i + 1);
+                    if (nextInfo.downTrueFlatFalse == true)
+                    {
+                        if ()
+                        pos.set(1 , new IntTag(nextY + 1));
+                    }
                 }
 
                 if (info.downTrueFlatFalse == true)
